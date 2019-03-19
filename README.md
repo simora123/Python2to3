@@ -18,7 +18,7 @@ Run YCPC_Convert_TexttoBatch.py. This script is pretty much hard coded so not mu
 
 Some things I still need to work on -\
 1-\
-Need to include if/else arguments. If file exists, then continue, else add file to directory.
+Need to include if/else arguments. If file exists, then continue, else add file to directory.\
 2-\
 Some kind of if .bat file exists then don't try to rename to .bat.\
 
