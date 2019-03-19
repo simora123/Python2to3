@@ -1,10 +1,10 @@
-Hello\
+Hello
 
-The following instructions are to assist in converting your python scripts from Python2 to Python3.\
+The following instructions are to assist in converting your python scripts from Python2 to Python3.
 
-The variables are set to directories associated with my work at York County Planning Commission but these directory paths can be changes at your local agency. You will need to adjust the folder variable (line 3) in the Convert_from_python2to3_Revised script provided.\
+The variables are set to directories associated with my work at York County Planning Commission but these directory paths can be changes at your local agency. You will need to adjust the folder variable (line 3) in the Convert_from_python2to3_Revised script provided.
 
-But here is the order you need to run these scripts and the batch file. I am sure there is a way to integrate all three steps into one python script or process but I just figured I would go about this way for now (updates/edits to this post coming....)\
+But here is the order you need to run these scripts and the batch file. I am sure there is a way to integrate all three steps into one python script or process but I just figured I would go about this way for now (updates/edits to this post coming....)
 
 Steps-\
 1.\
