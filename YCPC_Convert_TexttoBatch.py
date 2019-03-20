@@ -2,7 +2,7 @@ import glob, os
 
 pylist = []
 # Set Directory for Batch File Location
-os.chdir(r"O:\IS\Backup_Scripts")
+os.chdir(r"<Insert Working Directory>")##Example r"O:\IS\Backup_Scripts"
 # For Loop - Searches files in Set Directory. Set to look for .py files(python)
 for file in glob.glob("*.py"):
     print(file)
@@ -14,7 +14,7 @@ print(pylist)
 print(__file__)
 
 # Variable to propy file. This file is needed in order to run python3 in batch file environment
-pyfile2 = r"C:\Program Files (x86)\ArcGIS\Pro\bin\Python\Scripts\propy"
+pyfile2 = "<Insert propy script location>" ##Example r"C:\Program Files (x86)\ArcGIS\Pro\bin\Python\Scripts\propy"
 
 #For Loop- Loops thru pylist. Python files have been appended
 for py in pylist:
