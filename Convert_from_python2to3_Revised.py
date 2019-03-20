@@ -1,7 +1,7 @@
 import os, shutil
 
-os.chdir(r"<Insert Directory Path>") ##Example "O:\IS\Scripts"
-DestinationFolder = "<Insert Destination Folder>" ##r"O:\IS\Backup_Scripts3"
+os.chdir(r"<Insert Directory Path>") ##Example r"O:\IS\Scripts"
+DestinationFolder = "<Insert Destination Folder>" ##Example r"O:\IS\Backup_Scripts3"
 
 for root, dirs, files in os.walk("."):
         for f in files:
